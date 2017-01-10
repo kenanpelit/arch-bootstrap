@@ -1,0 +1,8 @@
+[submodule "archfi"]
+	path = archfi
+	url = https://github.com/MatMoul/archfi
+	branch = kenan
+[submodule "archdi"]
+	path = archdi
+	url = https://github.com/MatMoul/archdi
+	branch = kenan
